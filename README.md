@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @resolutesoul
-- 👀 I’m interested in ...Web development and open source 
-- 🌱 I’m currently learning ... Bootstrap 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Surbhi Jha 
+👀 I’m interested in making projects to solve real-life problems.
+🌱 I’m currently learning Front-end Web Development.
+💞️ I’m looking to collaborate on projects that challenge me and help me improve my skills.
 
 <!---
 resolutesoul/resolutesoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
